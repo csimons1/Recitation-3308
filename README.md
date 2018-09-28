@@ -1,2 +1,2 @@
 # Recitation-3308
-# Adding some stuff to commit.
+# Christian Simons + Lab4 Github Version Control
